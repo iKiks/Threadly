@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1028749051541",
+    "project_id": "threadly-f68ff",
+    "storage_bucket": "threadly-f68ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028749051541:android:855bf4d38dd6a745b77d9c",
+        "android_client_info": {
+          "package_name": "com.example.threadly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSBhed4gbepIodHsq-AriUeLsbhQUGZoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
